@@ -1,5 +1,14 @@
 # 💫 About Me:
-am currently working on: building student portals and full-stack web applications with database integration.<br><br>I am looking to collaborate on: web development projects, especially management systems and API-based applications.<br><br>I am currently learning: JavaScript frameworks, backend development, and database optimization.<br><br>Fun fact: I enjoy turning complex systems into simple, usable web interfaces.<br><br>Ask me about: web development, student portals, or system design.
+Currently building: Full-stack web applications, student portals, management systems, and practical digital solutions with database integration and modern web technologies.<br><br>
+
+Looking to collaborate on: Web development projects, full-stack applications, management information systems, API-driven applications, and open-source projects focused on solving real-world problems.<br><br>
+
+Currently learning: JavaScript, TypeScript, modern frontend frameworks, backend development, database optimization, APIs, cloud technologies, cybersecurity, and advanced software engineering practices.<br><br>
+
+Fun fact: Turning complex workflows into simple, intuitive, and usable digital interfaces is one of my favorite parts of software development. I also enjoy building things from scratch to understand how they work under the hood.<br><br>
+
+Ask me about: Full-stack development, student portals, database systems, API integration, system design, software engineering, or technology at the intersection of software and biomedical science.
+
 
 
 ## 🌐 Socials:
